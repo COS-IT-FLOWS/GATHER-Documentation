@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# GATHER APP
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+| GATHER Links & Badges              |                                                                             |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| GATHER Documentation      | [![Documentation Status](https://readthedocs.org/projects/gather-documentation/badge/?version=latest)](https://gather-documentation.readthedocs.io/en/latest/?badge=latest)      |
+| License                | [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/UW-Hydro/VIC/master/LICENSE.txt)                                                              |
+<!-- | Current Release DOI    | [![DOI](https://zenodo.org/badge/7766/UW-Hydro/VIC.svg)](https://zenodo.org/badge/latestdoi/7766/UW-Hydro/VIC) | -->
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+----------
