@@ -7,5 +7,10 @@
 			"path": "../cos-it-flows"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.words": [
+			"Maplibre",
+			"Supabase"
+		]
+	}
 }
