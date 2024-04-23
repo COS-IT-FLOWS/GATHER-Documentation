@@ -165,13 +165,13 @@ The CoS-IT-FloWS administrator and other developers will examine your pull reque
 
 We use Github Issues to track bugs and model development in the CoS-IT-FloWS source code. When issuing a Github Issue for a bug, it is import to include the following information:
 
-Version of CoS-IT-FloWS that you are using (e.g. CoS-IT-FloWS.4.2.b)
-Name and version of the C compiler you are using
-Operating system
-A description of relevant model settings
-A summary of the bug or error message you are getting
-When proposing a new feature, be specific about the functionality you are would like to see in CoS-IT-FloWS. Remember that CoS-IT-FloWS is an open source model with no official support for development, so be prepared to contribute to the implementation of your feature request. Also note that features that are only of interest to you are unlikely to be implemented in the main source code repo (although you are of course free to modify the code in any way you see fit).
+* Version of CoS-IT-FloWS that you are using (e.g. CoS-IT-FloWS.4.2.b)
+* Operating system
+* A description of relevant system configuration
+* A summary of the bug or error message you are getting
+
+When proposing a new feature, be specific about the functionality you are would like to see in CoS-IT-FloWS. Remember that CoS-IT-FloWS is an open source model with no official support for development, so be prepared to contribute to the implementation of your feature request. Also note that features that are only of interest to you are unlikely to be implemented in the main source code repository (although you are of course free to modify the code in any way you see fit).
 
 ## Git Workflow
 
-In order for us to leverage Git to its full potential, we have implemented a Git-oriented workflow. This requires developers to adhere to a few rules regarding branch names and merge requests. A full description of the workflow we use can be found here.
+In order for us to leverage Git to its full potential, we have implemented a Git-oriented workflow. This requires developers to adhere to a few rules regarding branch names and merge requests. A full description of the workflow we use can be found [here](./Workflow.md).
