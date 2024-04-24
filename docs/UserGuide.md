@@ -15,11 +15,11 @@
 * bug and issue tracking, and
 * distribution of official and bleeding edge releases of the model source code.
 
-## CoS-IT-FloWS for Non-Developers
+### Gather for Non-Developers
 
 In general, if you are only going to be using the system and not working directly on the source code, you can just download the working system from Gather github page. <!-- Additional archived tags and releases (including all previous versions) are available here.-->
 
-### CoS-IT-FloWS for Developers
+### Gather for Developers
 
 If you plan on contributing to developing the system or would like a structured way to incorporate updates to the Gather source code, we encourage you to use Git. The following sections are designed to get you started using git and working with the Gather source code repository.
 
