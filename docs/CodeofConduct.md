@@ -20,10 +20,10 @@ community include:
 
 * **Inclusivity and Diversity**: Demonstrating empathy and kindness toward other people to foster a culture of  respect, empathy and understanding.
 * **Openness and Transparency**: Conduct open and transparent discussions and decision-making processes. Share information, resources and knowledge openly with community.
-* **Respect for Contributers**: Respect the time,effort and expertise of all contributers.Giving and gracefully accepting constructive feedback.
+* **Respect for Contributers**: Respect the time,effort and expertise of all contributers. Giving and gracefully accepting constructive feedback.
 * **Collaboration and Cooperation** : Encourage community collaboration and co-operation by supporting initiatives that benefit the broader open source community.
 * **Accountability**: Hold all community members accountable for their actions and contributions. Take responsibility for addressing and resolving conflicts/issues within the community.
-* **Ethical Behavior**: Conduct all activities in accordance with ethical standards and legal requirements.Respect intellectual property rights adn licenisng agreements.
+* **Ethical Behavior**: Conduct all activities in accordance with ethical standards and legal requirements. Respect intellectual property rights adn licenisng agreements.
 * **Continuous Learning and Improvement**: Encourage continuous learning and skill development among community members and to strive for continuous improvement in processes, tools and community.
 
 Examples of unacceptable behavior include:
